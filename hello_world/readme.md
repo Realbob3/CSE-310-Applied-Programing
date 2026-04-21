@@ -36,6 +36,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* I first plan is to make a much more complex program in the future (I don't know what yet)
+* My first plan is to make a much more complex program in the future (I don't know what yet)
 * [ ]
 * [ ]
